@@ -1,1 +1,1 @@
-# ai-browser-use-puppy-finder-webscrapper
+# ai-browser-use-puppy-web-scraper
